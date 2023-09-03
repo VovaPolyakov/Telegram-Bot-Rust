@@ -1,2 +1,2 @@
 # Telegram-Bot-Rust
-I created my first Telegram bot on Rust
+This is Telegram Bot which can help you with count a compound interest.
